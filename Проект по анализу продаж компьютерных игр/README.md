@@ -1,5 +1,0 @@
-Russian - Для выполнения проекта использовались данные о продаж игр за различные периоды и игровые консоли. Целью проекта было выявить определяющие успешность игр закономерности. В проекте был проведен исследовательский анализ данных, составлен портрет пользователя каждого региона, а также проверены 2 гипотезы (средние рейтинги платформ одинаковые, средние рейтинги жанров разные).
-
-Использовал язык Python - библиотеки pandas, matplotlib, numpy, методы - pivot_table, duplicates, hist, bar, query, sum, loc. и др.
-
-English - To complete the project, data on game sales for various periods and game consoles were used. The aim of the project was to identify patterns that determine the success of games. The project conducted a research analysis of data, builed a portrait of the user of each region, and tested 2 hypotheses (the average ratings of platforms are the same, the average ratings of genres are different).
