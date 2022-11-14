@@ -3,12 +3,4 @@ Russian - Для выполнения проекта использовалис�
 
 Используемые языки: Python (библиотеки - pandas, matplotlib, функции и методы - describe, query, loc., hist etc.)
 
-Общий вывод
-Задачей было выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.
-
-Средняя стоимость квартиры составляет - 6,5 млн рублей. Минимальное значение 12,1 тыс, а максимальное 793 млн рублей.
-Самое большое количество объявлений в Санкт-Петербурге и Пушкине.
-Средняя стоимость квадратного метра в Санкт-Петербурге - 114 тыс, в Пушкине - 103 тыс рублей.
-Самое большое влияние на стоимость квартиры оказывает общая и жилая площади, где больше всего показатель корреляции.
-
 English - Data from the Yandex Real Estate service was used to performed the project. The task of the project was to perform data preprocessing, study anomalies, find features and dependencies in the real estate market. For example, how much correlates the price of renting an apartment with the number of floors in the house. In the first part, data preprocessing (omissions, duplicates), search and elimination of rare and out-of-date values were performed, followed by research analysis (calculation of necessary metrics, analysis of the sale rate of apartments, factors affecting the cost).
